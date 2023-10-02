@@ -1,0 +1,3 @@
+prsten;vlasy;sluchátka
+myš;klávesnice;krabice
+mikrofón;sekera;kosa

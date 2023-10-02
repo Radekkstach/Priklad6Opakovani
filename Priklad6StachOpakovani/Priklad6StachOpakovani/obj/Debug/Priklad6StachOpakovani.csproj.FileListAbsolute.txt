@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\bin\Debug\Priklad6StachOpakovani.exe.config
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\bin\Debug\Priklad6StachOpakovani.exe
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\bin\Debug\Priklad6StachOpakovani.pdb
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.Form1.resources
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.exe
+C:\Users\Uživatel\Desktop\programko\Priklad6StachOpakovani\Priklad6StachOpakovani\obj\Debug\Priklad6StachOpakovani.pdb
